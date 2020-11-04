@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e5dbeac5ab79cf4887ec242b095e449, type: 3}
+  m_Name: TallGrass
+  m_EditorClassIdentifier: 
+  m_DefaultSprite: {fileID: 21300002, guid: 7481392ce718e3145b34ba907c677c06, type: 3}
+  m_DefaultGameObject: {fileID: 4881408038351000248, guid: 27573098bc97964459ea8550fb2c4013,
+    type: 3}
+  m_DefaultColliderType: 1
+  m_TilingRules: []
+  w_tileBaseName: tallgrass
+  look: {fileID: 21300002, guid: 7481392ce718e3145b34ba907c677c06, type: 3}
+  type: 0
